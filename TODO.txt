@@ -1,4 +1,8 @@
 TODO:
 []Make the website
+<<<<<<< HEAD
 []Make a buisness card
-
+[]LOGO
+[]HEADER
+[]FOOTER
+>>>>>>> 5bce4343c91a5f5e6c1beaa4861225f1bb9012c6
