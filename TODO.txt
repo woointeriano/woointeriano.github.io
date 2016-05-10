@@ -1,2 +1,5 @@
 TODO:
 []Make the website
+[]LOGO
+[]HEADER
+[]FOOTER
