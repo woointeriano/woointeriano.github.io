@@ -4,3 +4,4 @@ TODO:
 []LOGO
 []HEADER
 []FOOTER
+[]proxima-nova
