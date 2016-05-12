@@ -39,6 +39,12 @@ background-color: red;
   background-color: green;
 }
 
+#spacer{
+  float: left;
+  width: 33.33333%;
+  height:100px;
+}
+
 #title{
   height: 55%;
   width: 100%;
@@ -48,13 +54,13 @@ background-color: red;
 #chris{
   float: left;
   height: 45%;
-  width: 50%;
+  width: 33.33333%;
   background-color: darkred;
 }
 
 #johnny{
   float: left;
   height: 45%;
-  width: 50%;
+  width: 33.33333%;
   background-color: darkorange;
 }
