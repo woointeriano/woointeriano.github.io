@@ -1,7 +1,7 @@
 TODO:
 []Make the website
 []Make a business card
-[]LOGO
+[x]LOGO
 []HEADER
 []FOOTER
 []proxima-nova
