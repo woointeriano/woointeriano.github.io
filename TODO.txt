@@ -1,8 +1,13 @@
 TODO:
 []Make the website
 []Make a business card
+<<<<<<< HEAD
 []LOGO
 [x]HEADER
+=======
+[x]LOGO
+[]HEADER
+>>>>>>> 153b521372118df9dfecca00c463cdcef0dcdbb6
 []FOOTER
 []proxima-nova
 

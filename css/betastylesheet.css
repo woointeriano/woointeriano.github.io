@@ -6,19 +6,33 @@ html, body {
   margin: 0;
   height: 100%;
   width: 100%;
+  background-color: #F5F5DC;
 }
 
 #header{
-
-background-color: grey;
+  height: 55%;
 }
 
 #content{
-  height: 40%;
-  background-color: blue;
+  height: 45%;
+
 }
 
-.imgcenter{
-  max-height: 200px;
+/*
+.red{
+  background-color: red;
+  height: 100%;
+  width: 100%;
+}
 
+.green{
+  background-color: green;
+  height: 100%;
+  width: 100%;
+}*/
+
+.imgcenter{
+  margin: 0 auto;
+  margin-bottom:10px;
+  display: block;
 }
