@@ -2,6 +2,10 @@ TODO:
 []Make the website
 []Make a business card
 []LOGO
-[]HEADER
+[x]HEADER
 []FOOTER
 []proxima-nova
+
+
+TODO: Acoustic
+[]Fill this list
