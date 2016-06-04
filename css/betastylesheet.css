@@ -36,3 +36,52 @@ html, body {
   margin-bottom:10px;
   display: block;
 }
+
+footer {
+	width: 100%;
+
+	position: absolute;
+	bottom: 0;
+    margin-bottom: -145px;
+}
+
+#footer-content {
+    overflow: hidden;
+}
+
+#footer-left {
+	width: 20%;
+    height: 145px;
+    float: left;
+	background-color: #5C4033;
+	opacity: 0.8;
+} #footer-left h3 a {
+	color: #B2816E;
+	text-transform: lowercase;
+}
+
+#footer-right {
+	width: 80%;
+    height: 145px;
+
+	float: right;
+
+	background-color: #B29F63;
+	opacity: 0.8;
+}
+
+.toggle-footer {
+	width: 100px;
+	margin: 0 auto;
+	padding: 10px;
+
+	cursor: pointer;
+
+	text-align: center;
+
+	background-color: #B29F63;
+	opacity: 0.8;
+
+	border-top-left-radius:  3px;
+	border-top-right-radius: 3px;
+}
