@@ -1,11 +1,11 @@
 jQuery(document).ready(function(){
     $fc = $("#footer-content");
     $fheight = $fc.height();
-    $fc.height(0);
+    $fc.height("50px");
     $(".toggle-footer").click(function(){
         //$("#footer-content").slideToggle("slow");
         if ( $fc.hasClass("up") ){
-            $fc.stop().animate({height:0},400);
+            $fc.stop().animate({height:"50px"},400);
             $fc.removeClass("up");
             document.getElementById("arrowicon").className = "glyphicon glyphicon-menu-up";
             //document.getElementById("arrowicon").className += " glyphicon-menu-up";
