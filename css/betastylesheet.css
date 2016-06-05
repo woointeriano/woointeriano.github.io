@@ -47,13 +47,13 @@ footer {
 #footer-content {
     overflow: hidden;
     background-color: #EFE7D5;
-      color: #00234A !important;
+    color: #00234A !important;
 
 }
 
 #footer-top {
   margin: 0 auto;
-  padding: 0 10px;
+  padding-top:8px;
   font-size: 16px;
   text-align: center;
 }
@@ -62,8 +62,16 @@ footer {
   position: fixed;
   width: 100%;
   bottom: 0;
-  left: 10px;
   clear: both;
+  padding-left: 10px;
+  font-weight: bold;
+  font-size: 15px;
+  /*background-color: #EFE7D5;*/
+}
+
+#cards{
+  float: left;
+  margin-top: 20px;
 }
 
 .toggle-footer {
@@ -80,37 +88,8 @@ footer {
 	border-top-right-radius: 6px;
 }
 
+.cardformat{
+  width:318px !important;
+  margin: 25px !important;
+}
 /*for bootstrap card projects*/
-
-
-@import "http://nyplintranet-training.appspot.com/css/themes/nypl/main.css";
-/* equal card height */
-.row-equal > div[class*='col-'] {
-    display: flex;
-    flex: 1 0 auto;
-}
-
-.row-equal .card {
-   width: 100%;
-}
-
-/* ensure equal card height inside carousel */
-.carousel-inner>.row-equal.active,
-.carousel-inner>.row-equal.next,
-.carousel-inner>.row-equal.prev {
-    display: flex;
-}
-
-/* prevent flicker during transition */
-.carousel-inner>.row-equal.active.left,
-.carousel-inner>.row-equal.active.right {
-    opacity: 0.5;
-    display: flex;
-}
-
-
-/* control image height */
-.card-img-top-250 {
-    max-height: 250px;
-    overflow:hidden;
-}
