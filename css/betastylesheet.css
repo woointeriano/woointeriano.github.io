@@ -63,14 +63,12 @@ footer {
 	width: 100%;
 	position: fixed;
 	bottom: 0;
-
 }
 
 #footer-content {
     overflow: hidden;
     background-color: #EFE7D5;
     color: #00234A !important;
-
 }
 
 #footer-top {
