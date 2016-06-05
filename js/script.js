@@ -18,9 +18,6 @@ jQuery(document).ready(function(){
             document.getElementById("arrowicon").className = "octicon octicon-triangle-down";
             // document.getElementById("arrowicon").className += " glyphicon-menu-down";
         }
-
-
-
         return false;
     });
 });
