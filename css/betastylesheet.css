@@ -36,6 +36,19 @@ html, body {
   width: 100%;
 }*/
 
+#leftbubble{
+  background-color: red;
+  height: 100px;
+}
+
+#rightbubble{
+  background-color: blue;
+  height: 100px;
+}
+
+.row{
+  height: 100%;
+}
 .content{
   margin-bottom: 100px
 }
