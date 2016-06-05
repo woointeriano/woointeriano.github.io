@@ -92,4 +92,17 @@ footer {
   width:318px !important;
   margin: 25px !important;
 }
+
+.card-block{
+  height: 200px !important;
+}
+
+table{
+  margin:0 25px;
+}
+
+.name-size{
+  text-align: center;
+  font-size: 20px !important;
+}
 /*for bootstrap card projects*/

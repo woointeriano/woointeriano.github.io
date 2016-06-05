@@ -1,6 +1,7 @@
 jQuery(document).ready(function(){
     $fc = $("#footer-content");
-    $fheight = $fc.height();
+    //$fheight = $fc.height();
+    $fheight = "490px";
     $fc.height("42px");
     $(".toggle-footer").click(function(){
         //$("#footer-content").slideToggle("slow");
