@@ -1,6 +1,6 @@
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+/*p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
 p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
-span.s1 {font-kerning: none}
+span.s1 {font-kerning: none}*/
 
 html, body {
   margin: 0;
@@ -8,14 +8,20 @@ html, body {
   width: 100%;
 }
 
-#header{
+/*#header{
   height: 55%;
 }
 
 #content{
   height: 45%;
-
 }
+
+
+
+#container{
+  height: 100%;
+}*/
+
 
 /*
 .red{
@@ -30,6 +36,10 @@ html, body {
   width: 100%;
 }*/
 
+#content{
+  margin-bottom: 100px
+}
+
 .imgcenter{
   margin: 0 auto;
   margin-bottom:10px;
@@ -38,8 +48,7 @@ html, body {
 
 footer {
 	width: 100%;
-
-	position: absolute;
+	position: fixed;
 	bottom: 0;
 
 }
