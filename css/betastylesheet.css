@@ -37,19 +37,16 @@ html, body {
   width: 100%;
 }*/
 
-#header{
-  width: 100%;
-}
-
-#leftbubble{
+/*#leftbubble{
+>>>>>>> e0a850f43755430adf40bd46a81fd93e7ecf2e38
   background-color: red;
   height: 100px;
-}
+}*/
 
-#rightbubble{
+/*#rightbubble{
   background-color: blue;
   height: 100px;
-}
+}*/
 
 .row{
   height: 100%;
@@ -68,14 +65,12 @@ footer {
 	width: 100%;
 	position: fixed;
 	bottom: 0;
-
 }
 
 #footer-content {
     overflow: hidden;
     background-color: #EFE7D5;
     color: #00234A !important;
-
 }
 
 #footer-top {
