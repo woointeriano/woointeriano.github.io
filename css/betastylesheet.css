@@ -12,6 +12,7 @@ html, body {
   height: 55%;
 }
 
+
 #content{
   height: 45%;
 }
@@ -35,6 +36,10 @@ html, body {
   height: 100%;
   width: 100%;
 }*/
+
+#header{
+  width: 100%;
+}
 
 #leftbubble{
   background-color: red;
